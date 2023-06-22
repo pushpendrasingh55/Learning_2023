@@ -1,0 +1,3 @@
+ Name: golu
+ID: 2
+Salary: 10000.000000
